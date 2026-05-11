@@ -1,0 +1,7 @@
+{
+  "name": "CampusNavigator AI",
+  "description": "A sophisticated campus navigation and management system featuring interactive maps, Dijkstra-based pathfinding, and a Gemini-powered campus assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
